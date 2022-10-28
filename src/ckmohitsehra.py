@@ -1,7 +1,7 @@
 """
-Copyright 2021
+Copyright 2022
 """
 
 if __name__ == '__main__':
-  store = 1213
+  store = 2022
   print("store:", store)
